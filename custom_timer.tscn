@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b1bxbov7w0oym"]
+
+[ext_resource type="Script" uid="uid://dx14578ipewgs" path="res://custom_timer.gd" id="1_wra5g"]
+
+[node name="CustomTimer" type="Node2D"]
+script = ExtResource("1_wra5g")
