@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://darlwb84ud01u"]
 
-[ext_resource type="Script" uid="uid://d0ogej316ddja" path="res://detect_body.gd" id="1_4vw4s"]
+[ext_resource type="Script" uid="uid://d0ogej316ddja" path="res://detect_body/detect_body.gd" id="1_4vw4s"]
 
 [node name="DetectBody" type="Node2D"]
 script = ExtResource("1_4vw4s")

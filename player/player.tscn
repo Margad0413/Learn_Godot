@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://dsmdp216th4xp"]
 
-[ext_resource type="Script" uid="uid://mud51xv5ks1h" path="res://player.gd" id="1_4flbx"]
+[ext_resource type="Script" uid="uid://mud51xv5ks1h" path="res://player/player.gd" id="1_4flbx"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_sh265"]
 
