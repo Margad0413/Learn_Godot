@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://xp1bnqjjou1y"]
+
+[ext_resource type="Texture2D" uid="uid://cesayiwmf4e4l" path="res://icon.svg" id="1_17wop"]
+[ext_resource type="Script" uid="uid://ckjs3qauoul68" path="res://click_move/click_move.gd" id="1_ghmby"]
+
+[node name="ClickMove" type="Node2D"]
+script = ExtResource("1_ghmby")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(206, 204)
+texture = ExtResource("1_17wop")
